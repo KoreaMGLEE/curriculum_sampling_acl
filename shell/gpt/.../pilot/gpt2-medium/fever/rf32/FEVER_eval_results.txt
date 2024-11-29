@@ -1,0 +1,16 @@
+Eval results (lora, openai-community/gpt2-medium, 1e-05):
+[0.0002]
+Eval results (lora, openai-community/gpt2-medium, 1e-05):
+[0.0002]
+Eval results (lora, openai-community/gpt2-medium, 0.0001):
+[0.0006]
+Eval results (lora, openai-community/gpt2-medium, 0.0001):
+[0.0002]
+Eval results (lora, openai-community/gpt2-medium, 0.001):
+[0.0002]
+Eval results (lora, openai-community/gpt2-medium, 0.001):
+[0.0002]
+Eval results (lora, openai-community/gpt2-medium, 0.0001):
+[0.0]
+Eval results (lora, openai-community/gpt2-medium, 0.0001):
+[0.0]

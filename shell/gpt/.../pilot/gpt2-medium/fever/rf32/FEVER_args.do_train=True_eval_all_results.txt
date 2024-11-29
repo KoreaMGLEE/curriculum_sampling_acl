@@ -1,0 +1,10 @@
+eval results all in one (args.do_train=True_lora_args.model_name_or_path='openai-community/gpt2-medium' args.learning_rate=0.0001):
+[0.0, 0.0, 0.0]
+eval results all in one (args.do_train=True_lora_args.model_name_or_path='openai-community/gpt2-medium' args.learning_rate=0.0001):
+[0.0002, 0.0, 0.0]
+eval results all in one (args.do_train=True_lora_args.model_name_or_path='openai-community/gpt2-medium' args.learning_rate=0.0001):
+[0.0002, 0.0, 0.0]
+eval results all in one (args.do_train=True_lora_args.model_name_or_path='openai-community/gpt2-medium' args.learning_rate=0.0001):
+[0.0024, 0.0, 0.0028089887640449437]
+eval results all in one (args.do_train=True_lora_args.model_name_or_path='openai-community/gpt2-medium' args.learning_rate=0.0001):
+[0.0394, 0.03531073446327684, 0.04073033707865169]
